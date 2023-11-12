@@ -1,0 +1,91 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.up {
+    height: 8vh;
+    width: 100vw;
+    background-color: lightpink;
+    background-size: cover;
+    color: green;
+}
+
+.color2 {
+    color: blue;
+}
+
+.head1 {
+    margin-left: 40px;
+}
+
+.margin1 {
+    margin-left: 340px;
+}
+
+.margin2 {
+    margin-left: 120px;
+}
+
+.hcol {
+    color: white;
+    background-image: url('https://res.cloudinary.com/dyqij7hqm/image/upload/v1699525408/re_bynnpy.jpg');
+    background-size: cover;
+    height: 100vh;
+    width: 100vw;
+
+}
+
+.text {
+    margin-left: 280px;
+    padding: 40px;
+}
+
+.about {
+    background-color: #5f9e81;
+    color: white;
+    background-size: cover;
+    height:100vh;
+    width:100vw;
+}
+
+.about1 {
+    color: lightpink;
+    margin-left: 20px;
+}
+
+.about2 {
+    padding: 30px;
+}
+
+.about3 {
+    margin-left: 60px;
+}
+
+.service {
+    color: pink;
+}
+
+.service1 {
+    color: #5f9e81;
+    margin-left: 40px;
+}
+
+.bg-color {
+    background-color: lightpink;
+    background-size: cover;
+    height: 140vh;
+    width: 100vw;
+}
+
+.color {
+    color: white;
+    margin-left: 60px;
+}
+
+.color1 {
+    margin-left: 60px;
+}
+
+.button1 {
+    background-color: blue;
+    border-radius: 10px;
+    width: 15vw;
+}
